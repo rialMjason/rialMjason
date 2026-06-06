@@ -15,7 +15,7 @@ Passionate about insurance pricing, data analytics, and underwriting, with a foc
 ## 🏆 Competitions & Results
 
 - Data Science Digital Race 2025  — Finalist — [Flight analysis](https://github.com/rialMjason/Data-Science-Digital-Race)
-- UKM Data CHallenge 2025 — Consolation Prize-[Productivity analysis]
+- UKM Data CHallenge 2025 — Consolation Prize-[Interactive game](https://github.com/rialMjason/ukm-statistic)
 - Masa Hackathon 2026 — Participants — [Climate Risk–Driven Reinsurance Decision Framework](https://github.com/rialMjason/MASA-HACKATHON)
 ---
 
@@ -23,6 +23,7 @@ Passionate about insurance pricing, data analytics, and underwriting, with a foc
 
 - UMACT Membership lookup system — Private (Including Confidential Data)
 - UMACT Auto Certificate Issuance System — [Code in Google Apps Script](https://github.com/rialMjason/UMACT-Auto-Certificate-Issuance-System)
+- Sulam-[Memory card game](
 ---
 
 ## 📫 Connect
