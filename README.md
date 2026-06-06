@@ -9,8 +9,7 @@ Passionate about insurance pricing, data analytics, and underwriting, with a foc
 - Currently learning SQL, python, matlab, R as programming tools 
 - Exploring machine learning techniques and statistical models, including basic regression analysis, Markov chain simulation, time series analysis, ARIMA models, and data mining.
 - Open to intern opportunities — based in Kuala Lumpur 🇲🇾
-- Actively learning Retreival Augmented Generation
-- 
+- Actively learning Retreival Augmented Generation for more interactive dashboard
 
 ---
 
