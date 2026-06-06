@@ -23,7 +23,7 @@ Passionate about insurance pricing, data analytics, and underwriting, with a foc
 
 - UMACT Membership lookup system — Private (Including Confidential Data)
 - UMACT Auto Certificate Issuance System — [Code in Google Apps Script](https://github.com/rialMjason/UMACT-Auto-Certificate-Issuance-System)
-- Sulam-[Memory card game](
+- Sulam-[Memory card game](https://github.com/rialMjason/Sulam-)
 ---
 
 ## 📫 Connect
