@@ -1,16 +1,34 @@
-## Hi there 👋
+## Hi — I'm Jason 👋
 
-<!--
-**rialMjason/rialMjason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate about insurance pricing, data analytics, and underwriting, with a focus on developing data-driven solutions as a data scientist based in Taiping, Perak.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎶 About Me
+
+- Currently learning SQL, python, matlab, R as programming tools 
+- Exploring machine learning techniques and statistical models, including basic regression analysis, Markov chain simulation, time series analysis, ARIMA models, and data mining.
+- Open to intern opportunities — based in Kuala Lumpur 🇲🇾
+
+---
+
+## 🏆 Competitions & Results
+
+- Data Science Digital Race 2025  — Finalist — [Flight analysis](https://github.com/rialMjason/Data-Science-Digital-Race)
+- UKM Data CHallenge 2025 — Consolation Prize-[Productivity analysis]
+- Masa Hackathon 2026 — Participants — [Climate Risk–Driven Reinsurance Decision Framework](https://github.com/rialMjason/MASA-HACKATHON)
+---
+
+## 🧑‍💻 Projects
+
+- UMACT Membership lookup system — Private (Including Confidential Data)
+- UMACT Auto Certificate Issuance System — [Code in Google Apps Script](https://github.com/rialMjason/UMACT-Auto-Certificate-Issuance-System)
+---
+
+## 📫 Connect
+
+- Email: [jasonchoongjinshen123@gmail.com](mailto:jasonchoongjinshen123@gmail.com)
+- Linkedln: [Jason Choong Jin Shen](www.linkedin.com/in/jason-choong-jin-shen-aba796332)
+
+
+
