@@ -4,7 +4,7 @@ Passionate about insurance pricing, data analytics, and underwriting, with a foc
 
 ---
 
-## 🎶 About Me
+##  About Me
 
 - Currently learning SQL, python, matlab, R as programming tools 
 - Exploring machine learning techniques and statistical models, including basic regression analysis, Markov chain simulation, time series analysis, ARIMA models, and data mining.
